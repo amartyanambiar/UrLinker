@@ -1,6 +1,6 @@
 # UrLinker
 
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:column;">
   <div style="flex:1;">
     <img src="public/mob.png" alt="Image" style="width:30%;">
   </div>
