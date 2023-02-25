@@ -5,9 +5,10 @@
     <img src="public/mob.png" alt="Image" style="width:30%;">
   </div>
   <div style="flex:1;">
-    <video src="public/web.gif" autoplay muted loop style="width:100%;"></video>
+    <img src="public/web.gif" autoplay muted loop style="width:70%;"></img>
   </div>
 </div>
+
 
 UrLinker is a simple and customizable landing page template for showcasing your personal and professional links. It is built with React and TailwindCSS, and can be easily customized to fit your personal brand.
 
