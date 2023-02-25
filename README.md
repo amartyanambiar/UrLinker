@@ -1,10 +1,10 @@
 # UrLinker
 
-<div style="display:flex; flex-direction:column;">
-  <div style="flex:1;">
+<div style="column-count: 3;">
+  <div>
     <img src="public/mob.png" alt="Image" style="width:30%;">
   </div>
-  <div style="flex:1;">
+  <div ">
     <img src="public/web.gif" autoplay muted loop style="width:70%;"></img>
   </div>
 </div>
