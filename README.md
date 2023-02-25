@@ -1,12 +1,12 @@
 # UrLinker
 
-<p float="left">
+UrLinker is a simple and customizable landing page template for showcasing your personal and professional links. It is built with React and TailwindCSS, and can be easily customized to fit your personal brand.
+
+<p style="center">
     <img src="public/web.gif" style="width:70%;"/>
  
 </p>
 
-
-UrLinker is a simple and customizable landing page template for showcasing your personal and professional links. It is built with React and TailwindCSS, and can be easily customized to fit your personal brand.
 
 ## Features
 
