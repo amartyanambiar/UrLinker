@@ -1,8 +1,9 @@
 # UrLinker
 
 <p float="left">
-    <img src="public/mob.png" alt="Image" style="width:30%;"/>
     <img src="public/web.gif" style="width:70%;"/>
+    <img src="public/mob.png" alt="Image" style="width:30%;"/>
+    
 </p>
 
 
