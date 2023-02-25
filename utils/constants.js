@@ -4,37 +4,37 @@ export const MY_LINKS = [
   // icons are from fontawesome https://fontawesome.com/icons?d=gallery
   // suggestion : set up dynamic links for your social media accounts
   {
-    href: "https://www.kaggle.com/amartyanambiar",
+    href: "https://www.kaggle.com",
     text: "Kaggle",
     icon: "fab fa-kaggle",
   },
   {
-    href: "https://github.com/amartyanambiar",
+    href: "https://www.github.com",
     text: "Github",
     icon: "fab fa-github",
   },
   {
-    href: "https://amartyanambiar.medium.com",
+    href: "https://www.medium.com",
     text: "Medium",
     icon: "fab fa-medium",
   },
   {
-    href: "https://amartyanambiar.page.link/lnkdn",
+    href: "https://www.linkedin.com/in",
     text: "LinkedIn",
     icon: "fab fa-linkedin",
   },
   {
-    href: "https://amartyanambiar.page.link/twitter",
+    href: "https://www.twitter.com",
     text: "Twitter",
     icon: "fab fa-twitter",
   },
   {
-    href: "https://amartyanambiar.page.link/tg",
+    href: "https://www.telegram.org",
     text: "Telegram",
     icon: "fab fa-telegram",
   },
   {
-    href: "https://amartyanambiar.page.link/wa",
+    href: "https://www.whatsapp.com",
     text: "WhatsApp",
     icon: "fab fa-whatsapp",
   },
