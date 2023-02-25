@@ -2,7 +2,7 @@
 
 <div style="display:flex; flex-direction:row;">
   <div style="flex:1;">
-    <img src="public/mob.png" alt="Image" style="width:100%;">
+    <img src="public/mob.png" alt="Image" style="width:30%;">
   </div>
   <div style="flex:1;">
     <video src="public/web.gif" autoplay muted loop style="width:100%;"></video>
