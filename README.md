@@ -44,3 +44,6 @@ UrLinker can be easily customized to fit your personal brand. Here are some of t
 ## Contributing
 
 Contributions are welcome! If you find a bug or would like to suggest an improvement, please open an issue or submit a pull request.
+Possible Ideas to work upon :
+- Add support for different languages
+- Create an intuitive and user-friendly interface that simplifies the process of inputting data for non-technical users. It can allow inputting their data in a file format that can be seamlessly rendered and displayed on the website.
