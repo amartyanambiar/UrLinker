@@ -17,7 +17,7 @@ UrLinker is a simple and customizable landing page template for showcasing your 
 
 ## Demo
 
-To see a live demo of the UrLinker template, please visit https://urlinker.vercel.app.
+To see a live demo of the UrLinker template, please visit https://ur-linker.vercel.app.
 
 ## Getting Started
 
