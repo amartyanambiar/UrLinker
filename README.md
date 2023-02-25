@@ -2,8 +2,7 @@
 
 <p float="left">
     <img src="public/web.gif" style="width:70%;"/>
-    <img src="public/mob.png" alt="Image" style="width:30%; height:40%"/>
-    
+ 
 </p>
 
 
