@@ -1,13 +1,10 @@
 # UrLinker
 
-<div style="column-count: 3;">
-  <div>
-    <img src="public/mob.png" alt="Image" style="width:30%;">
-  </div>
-  <div ">
-    <img src="public/web.gif" autoplay muted loop style="width:70%;"></img>
-  </div>
-</div>
+<p float="left">
+    <img src="public/mob.png" alt="Image" style="width:30%;"/>
+ 
+    <img src="public/web.gif" autoplay muted loop style="width:70%;"/>
+</p>
 
 
 UrLinker is a simple and customizable landing page template for showcasing your personal and professional links. It is built with React and TailwindCSS, and can be easily customized to fit your personal brand.
