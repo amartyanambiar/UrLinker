@@ -25,11 +25,11 @@ To get started with UrLinker, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Run npm install to install the necessary dependencies.
-4. Customize the links in utils/constants.js.
-5. Add your profile image to public/your_pic.png and change fields to your name in index.js and \_document.js.
-6. Run npm run dev to start the development server.
-7. Open http://localhost:3000 to view the template in your browser.
+3. Run `npm install` to install the necessary dependencies.
+4. Customize the links in `utils/constants.js`.
+5. Add your `profile image` to `public/your_pic.png` and change fields to your name in `index.js` and `\_document.js`.
+6. Run `npm run dev` to start the development server.
+7. Open `http://localhost:3000` to view the template in your browser.
 8. Deploy using Vercel(very easy) or your preferred hosting provider.
 
 ## Customization
